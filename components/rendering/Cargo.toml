@@ -5,11 +5,13 @@ authors = ["Vincent Prouillet <prouillet.vincent@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+katex = "0.2"
 tera = { version = "1", features = ["preserve_order"] }
 syntect = "4.1"
 pulldown-cmark = "0.7"
 serde = "1"
 serde_derive = "1"
+pcre2 = "0.2.3"
 pest = "2"
 pest_derive = "2"
 regex = "1"
