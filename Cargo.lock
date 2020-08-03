@@ -1156,9 +1156,9 @@ dependencies = [
 
 [[package]]
 name = "katex"
-version = "0.2.1"
+version = "0.2.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0ccbd0fbdd5f1d9ad2ad62f8a07a67666db2f27eb3bb4de9195d18e9cc40fdb8"
+checksum = "f7b76367858539b96610e8450e7dc963dc0adcb9d235df23d73d8658af1ad80f"
 dependencies = [
  "derive_builder",
  "quick-js",
@@ -1912,9 +1912,9 @@ dependencies = [
 
 [[package]]
 name = "quick-js"
-version = "0.3.3"
+version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "09ec632ebbc5834456b28c5f772a4e6323506c186fdeb9c759af0dc1e9672a6b"
+checksum = "0494c8b8f1d6e7d3ca083ae9a8a0482711511a22dad6aa136beb96341d215c23"
 dependencies = [
  "libquickjs-sys",
  "once_cell",
