@@ -1201,9 +1201,9 @@ checksum = "f2f96b10ec2560088a8e76961b00d47107b3a625fecb76dedb29ee7ccbf98235"
 
 [[package]]
 name = "libquickjs-sys"
-version = "0.6.0"
+version = "0.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "998941be972b12a92838baea44603c6a696a9b82222808d741fd48ec2d91235a"
+checksum = "38d43af2a564bc49edb5200ec019fa9e8993e1b25c43e5b613290b23110e4fe9"
 dependencies = [
  "cc",
  "copy_dir",
